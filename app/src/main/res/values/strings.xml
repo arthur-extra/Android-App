@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TriviaQuiz</string>
+    <string name="question_text">What is the capital of Washington?</string>
+    <string name="option_1">Seattle</string>
+    <string name="option_2">Tacoma</string>
+    <string name="option_3">Olympia</string>
+    <string name="option_4">Spokane</string>
+    <string name="toast_correct">Correct!</string>
+    <string name="toast_incorrect">Incorrect.</string>
+</resources>
